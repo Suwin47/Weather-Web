@@ -1,3 +1,40 @@
+# 🌤️ Weather Report Application
+
+A responsive Weather Report Application built using React.js, Axios, Tailwind CSS, and OpenWeatherMap API. Users can search for any city and get real-time weather information instantly.
+
+## 🚀 Features
+
+- Search weather by city name
+- Real-time weather data from OpenWeatherMap API
+- Temperature, Humidity, Pressure, Wind Speed, Visibility, and Feels Like Temperature
+- Responsive design for mobile, tablet, and desktop
+- Error handling for invalid city names
+- Modern UI with Tailwind CSS
+- React Hooks (useState) for state management
+
+## 🛠️ Technologies Used
+
+- React.js
+- Axios
+- Tailwind CSS
+- OpenWeatherMap API
+- Vite
+
+## 📸 Preview
+
+A modern weather dashboard with city search and real-time weather updates.
+
+## 🔗 Live Demo
+
+(https://weather-web-lake-pi.vercel.app/)
+
+## 👨‍💻 Author
+
+Suvin S
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
